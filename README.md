@@ -1,6 +1,7 @@
 # OrdinalDB DAO
-![Version](https://img.shields.io/badge/Version-Alpha-white)
-![Version](https://img.shields.io/discord/1073430491367215174?color=white&label=Discord&logo=Discord)
-![Version](https://img.shields.io/twitter/follow/OrdDragonBall?style=social)
+![Version](https://img.shields.io/badge/Version-Alpha-black)
+![Discord](https://img.shields.io/discord/1073430491367215174?color=black&label=Discord&logo=Discord)
+![Twitter](https://badgen.net/badge/icon/@OrdDragonBall/black?icon=twitter&label
+)
 
 Under construction🚧🏗️
