@@ -1,5 +1,6 @@
 # ORDINALDB DAO 
+(https://img.shields.io/badge/Version-Alpha-black)
 
 Under construction🚧🏗️
 
-[![Version](https://img.shields.io/badge/Version-Alpha-black)]
+
