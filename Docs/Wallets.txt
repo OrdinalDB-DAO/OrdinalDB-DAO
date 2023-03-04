@@ -1,67 +1,29 @@
-#######################################################
-##								     ##
-##	BNS DOMAIN  					     ##
-##								     ##
-##	ordinaldbdao.btc         			     ##
-##								     ##
-#######################################################
+# BNS DOMAIN 
+    - ordinaldbdao.btc
 
 
-#####################################################
-##								                   ##
-##	ENS DOMAIN  					               ##
-##								                   ##
-##	ordinaldbdao.eth         			           ##
-##								                   ##
-#####################################################
+# ENS DOMAIN
+    - ordinaldbdao.eth
 
 
-#####################################################
-##								                   ##
-##	JACKPOT WALLET					               ##
-##								                   ##
-##	bc1quyfgshd8m8wz3wgncle26zgvzyq8qehgj9tve3     ##
-##								                   ##
-#####################################################
+# JACKPOT WALLET
+    - bc1quyfgshd8m8wz3wgncle26zgvzyq8qehgj9tve3
 
 
-#######################################################
-##								     ##
-##	TREASURY DAO WALLET				     ##
-##								     ##
-##	bc1qhaa97qc8tek472hgkwzflym3a2sk6trxutaht2     ##
-##								     ##
-#######################################################
+# TREASURY DAO WALLET
+    - bc1qhaa97qc8tek472hgkwzflym3a2sk6trxutaht2
 
 
-#######################################################
-##								     ##
-##	$ODB DEVELOPMENT WALLET			           ##
-##								     ##
-##	bc1q60nnjx0yj44jd9h3yy3j0mzhnutrjemxm6ldyy     ##
-##								     ##
-#######################################################
+# $ODB DEVELOPMENT WALLET
+    - bc1q60nnjx0yj44jd9h3yy3j0mzhnutrjemxm6ldyy
 
 
-#######################################################
-##								     ##
-##	FOUNDERS WALLET (BTC)		                 ##
-##								     ##
-##	bc1q47l7sklhrdr42hpmvj55kwey6yhxs748ylcxxc     ##
-##								     ##
-#######################################################
+# FOUNDERS WALLET (BTC)
+    - bc1q47l7sklhrdr42hpmvj55kwey6yhxs748ylcxxc 
 
 
-#######################################################
-##								     ##
-##	FOUNDERS WALLET (ETH)		                 ##
-##								     ##
-##	bc1q47l7sklhrdr42hpmvj55kwey6yhxs748ylcxxc     ##
-##								     ##
-#######################################################
-
-
-
+# FOUNDERS WALLET (ETH)
+    - 0x3EB70002aA7095D0e90699c498A16F541c280650
 
 
 
