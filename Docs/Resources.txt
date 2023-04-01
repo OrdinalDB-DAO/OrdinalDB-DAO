@@ -11,11 +11,11 @@
 
 
 # DISCORD
-    - discord.gg/ordinaldragonball
+    - discord.gg/ordinaldbdao
 
 
 # TWITTER
-    - @OrdDragonBall
+    - @OrdinalDBDAO
 
 
 # GITHUB
